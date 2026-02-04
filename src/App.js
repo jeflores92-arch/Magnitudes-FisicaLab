@@ -45,12 +45,13 @@ import {
 // =================================================================
 const firebaseConfig = {
   // PEGA AQUÍ TUS DATOS DE FIREBASE MANUALMENTE EN CODESANDBOX
-  apiKey: "TU_API_KEY_AQUI",
-  authDomain: "tu-proyecto.firebaseapp.com",
-  projectId: "tu-proyecto",
-  storageBucket: "tu-proyecto.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "1:123456789:web:abcdef",
+apiKey: "AIzaSyA0Rr410c9pBr-FvcPrqzMlfrZ8np2iZHo",
+  authDomain: "fisica-lab---medidas.firebaseapp.com",
+  projectId: "fisica-lab---medidas",
+  storageBucket: "fisica-lab---medidas.firebasestorage.app",
+  messagingSenderId: "10101520168",
+  appId: "1:10101520168:web:83b05851d452b0fbe0821d",
+  measurementId: "G-Q1VTR0XPPX"
 };
 
 // =================================================================
@@ -1457,3 +1458,4 @@ export default function App() {
     </div>
   );
 }
+
